@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/dannyam2030/Four-Card-Features-Solution.git)
-- Live Site URL: (https://ephemeral-cat-7c6a6c.netlify.app)
+- Live Site URL: (https://lovely-marigold-ba9674.netlify.app)
 
 ## My process
 
