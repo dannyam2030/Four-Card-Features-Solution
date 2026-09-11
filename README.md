@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/dannyam2030/Four-Card-Features-Solution.git)
+- Live Site URL: (https://ephemeral-cat-7c6a6c.netlify.app)
 
 ## My process
 
